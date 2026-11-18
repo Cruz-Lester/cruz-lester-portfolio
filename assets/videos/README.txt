@@ -1,0 +1,1 @@
+Optional public gameplay clips: chicken-frenzy.mp4, eden.mp4, other-gameplay.mp4. Video cards appear automatically when hosted and files exist. For local file:// preview, use a local web server to enable video detection.
